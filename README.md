@@ -56,3 +56,5 @@ CALCULATE(
     COUNTROWS(Fatos_Sinistros),
     Fatos_Sinistros[Indicador_Suspeita_Fraude] = 1
 )
+
+
